@@ -99,7 +99,6 @@ A comprehensive mobile application for falconers to track birds, training sessio
 **Architecture Highlights:**
 - Offline-first mobile architecture
 - Delta sync with conflict resolution
-- Freemium subscription model (StoreKit 2)
 - Microservices-ready backend design
 - Comprehensive API documentation
 
