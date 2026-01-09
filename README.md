@@ -8,9 +8,19 @@ Based in the States · Falconer · Builder · Coffee-powered coder
 
 ## What I'm Building
 
-**🦅 FalconryLab** — Native iOS app for falconers to track birds, training, and connect with sponsors
-*SwiftUI · SwiftData · Vapor backend · Offline-first sync that actually works*
+**🦅 FalconryLab**
+  Native iOS platform for falconers to track birds, weights, training sessions, and manage apprenticeships. Full-stack Swift from client to server.
 
+  **The problem:** Falconers were stuck with abandoned web apps and outdated tools that didn't respect the craft's precision requirements. Weight tracking, training logs, and sponsor relationships
+  needed purpose-built software, not generic fitness trackers.
+
+  **The solution:** Native iOS app with offline-first sync. Complete CRUD operations work without connectivity. Intelligent conflict resolution ensures data integrity. Type-safe Swift across the
+  entire stack eliminates entire classes of runtime errors.
+
+  **Stack:** SwiftUI · SwiftData · Vapor 4 · PostgreSQL · Redis
+
+  Currently in active development. TestFlight beta planned for Q2 2026.
+  
 The falconry community needed better tools. Building it from scratch with modern Swift stack.
 
 ---
