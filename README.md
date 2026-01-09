@@ -79,11 +79,11 @@ A comprehensive mobile application for falconers to track birds, training sessio
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobertdrake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=bobertdrake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobertdrake&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=bobertdrake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobertdrake&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobertdrake&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
