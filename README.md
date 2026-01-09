@@ -93,8 +93,6 @@ A comprehensive mobile application for falconers to track birds, training sessio
 
 **FalconryLab Ecosystem:**
 - 📱 Native iOS app for falconers
-- 🌐 Marketing website for app promotion
-- 🏪 Merchandise platform
 - 🔌 RESTful API for third-party integrations
 - 📈 Analytics dashboard for training insights
 
