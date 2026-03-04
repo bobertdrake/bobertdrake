@@ -52,9 +52,7 @@ I'm interested in working with people building for niche communities, outdoor an
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=bobertdrake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=bobertdrake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![Contribution Graph](https://ghchart.rshah.org/bobertdrake)
 
 ---
 
