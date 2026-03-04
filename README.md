@@ -1,20 +1,18 @@
 # Robert Drake
 
-Some people build software. Some people fly hawks. I do both — one hand on the keyboard, the other in a leather glove.
-
-I'm an indie iOS engineer and practicing falconer based in the States, building tools at the intersection of a craft most people don't know exists and technology that can make it better.
+Falconer and iOS engineer, based in the States. I build tools for a craft most people don't know exists.
 
 ---
 
 ## FalconryLab
 
-**The field companion falconers never had.**
+**A field companion built by falconers, for falconers.**
 
 FalconryLab is a native iOS app built for the people who wake up before dawn, drive into open country, and fly birds of prey — then need to actually track what happened out there.
 
 **What it does:**
 
-- **Weight tracking** with burn rate calculations — because ounces matter when your bird's performance depends on precise conditioning
+- **Weight tracking** with burn rate calculations — because grams matter when your bird's performance depends on precise conditioning
 - **Two proprietary feeding calculators** — tailored to the metabolic realities of raptors in work
 - **Training session logger** across 8 session types — from creance work to free flights
 - **GPS hunt journal** with waypoints — mark where the hawk caught, where she waited on, where the quarry flushed
@@ -54,7 +52,9 @@ I'm interested in working with people building for niche communities, outdoor an
 
 ---
 
-![Contribution Graph](https://ghchart.rshah.org/bobertdrake)
+<img src="https://github-readme-stats.vercel.app/api?username=bobertdrake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=bobertdrake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ---
 
