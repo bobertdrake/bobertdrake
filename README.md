@@ -52,8 +52,4 @@ I'm interested in working with people building for niche communities, outdoor an
 
 ---
 
-![Contribution Graph](https://ghchart.rshah.org/bobertdrake)
-
----
-
 *The birds don't wait. Neither does the code.*
